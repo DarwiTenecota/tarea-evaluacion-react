@@ -1,0 +1,40 @@
+.cajaColor{
+    color: rgb(101, 127, 167);
+    text-align: center;
+    border-style: double;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 50px;
+  }
+.cajaColor1{
+    color: rgb(74, 45, 100);
+  }
+  .cajaColor2{
+    color: rgb(61, 136, 59);
+  }
+  
+  .caja{
+   text-align: left;
+    border-style: groove;
+    margin-top: 80px;
+    width: 700px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .color{
+    color: rgb(78, 69, 78);
+    text-align: center;
+   border-style: dotted;
+   margin: 80px;
+  }
+
+  .boxUpdate{
+
+
+    width: 600px;
+    height: 400px;
+}
